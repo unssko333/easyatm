@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ATM_System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ATM_System.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
